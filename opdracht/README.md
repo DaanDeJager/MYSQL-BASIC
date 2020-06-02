@@ -45,11 +45,11 @@ Delete | taak02 | Primary Keys
 
 Schrijf voor de onderstaande vragen een SQL query die de gevraagde informatie terug geeft of verwijderd. Gebruik Aliassen (`AS`) om een goed beschrijvende kolom naam terug te krijgen als je functies gebruikt.
 
-1. Toon alle gegevens in de `videogamesales` tabel.
-2. Hoeveel spellen uit de database zijn uitgebracht in 1999?
-3. Hoeveel spellen zijn er in het genre Sports verkocht in Noord Amerika?
-4. Toon de naam en het platform van alle spellen die zijn uitgebracht door Nintendo tussen 1990 en 2005.
-5. Welk spel heeft het meest geld opgebracht wereldwijd?
+1. Toon alle gegevens in de `videogamesales` tabel. - KLAAR
+2. Hoeveel spellen uit de database zijn uitgebracht in 1999? - 26
+3. Hoeveel spellen zijn er in het genre Sports verkocht in Noord Amerika? - KLAAR
+4. Toon de naam en het platform van alle spellen die zijn uitgebracht door Nintendo tussen 1990 en 2005. - 
+5. Welk spel heeft het meest geld opgebracht wereldwijd? - 
 6. Hoeveel spellen zijn er gemiddeld verkocht in het Puzzle genre in Europa?
 7. Toon de naam, het genre en de uitgever van het spel dat het minste aantal verkopen heeft in Japan.
 8. Hoeveel spellen zijn er totaal verkocht van Nintento wereldwijd?
